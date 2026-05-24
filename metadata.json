@@ -1,0 +1,6 @@
+{
+  "name": "Dexter",
+  "description": "A futuristic personal AI life operating system client featuring a beautiful glassmorphic dashboard, conversational memory engine, real-time Gemini reasoning in multiple modes, custom terminal, and proactive reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
